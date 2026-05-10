@@ -6,6 +6,7 @@ Resturant Order capture System
 This project is a Restaurant Point of Sale (POS) system built using the Microsoft Power Platform, specifically designed for students on campus. The system enables students to browse menus, place orders online, and avoid long queues by streamlining the food ordering experience directly from their mobile devices.
 
 The project demonstrates how low-code technologies can be leveraged to solve real-world operational challenges efficiently and at scale.
+<img width="1919" height="886" alt="Screenshot 2026-04-24 090810" src="https://github.com/user-attachments/assets/e1c33815-f423-43f7-b637-5f946b10c77b" />
 
 ---
 
